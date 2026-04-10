@@ -1,66 +1,64 @@
-<h1 align="center">Hi 👋, I'm Momin khan</h1>
-<h3 align="center">💻 Passionate Developer | 🚀 Tech Explorer | 🌍 From India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=600&lines=⚡+ACCESS+GRANTED+⚡;WELCOME+TO+MOMIN+SYSTEM;ETHICAL+HACKER+%7C+DEVELOPER;INITIALIZING..." />
+</h1><p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+</p>---
 
----
+🧑‍💻 SYSTEM INFO
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Loading+User+Data...;Name:+Momin+Rahman;Role:+Developer+%2F+Hacker;Focus:+Automation+%2F+Bots+%2F+Security;Status:+ONLINE+✔" />---
 
-- 🔭 Currently working on **Web Development & Automation Projects**
-- 🌱 Learning **Python 🐍 | Java ☕ | Backend Development**
-- 👀 Interested in **Building Tools, Bots & APIs**
-- 💞️ Looking to collaborate on **Projects & Instagram Tech Content**
-- ⚡ Fun fact: *I love turning ideas into real working systems*
-
----
-
-## 🛠️ Tech Stack
+🛠️ TECH STACK (LIVE)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,linux,git,github,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,linux,bash,git,github" />
+</p>---
 
----
-
-## 📊 GitHub Stats
+📊 LIVE GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momintips&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momintips&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=momintips&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momintips&theme=chartreuse-dark&hide_border=true" />
+</p>---
 
----
-
-## 📈 Profile Summary
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momintips&theme=github_dark)
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momintips/momintips/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/momintips/momintips/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌐 Connect With Me
+🐍 SNAKE ANIMATION
 
 <p align="center">
-  <a href="https://instagram.com/momin.tips">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/momintips/momintips/output/github-contribution-grid-snake.svg" />
+</p>---
+
+🧠 TERMINAL MODE
+
+> booting system...
+> loading modules ██████████ 100%
+> establishing secure connection...
+> access granted ✔
+
+while(true){
+  learn();
+  build();
+  hack();
+}
+
+---
+
+🔥 MATRIX RAIN (HACKER VIBE)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+</p>---
+
+🌐 CONNECT
+
+<p align="center">
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF00" />
   </a>
-  <a href="mailto:ceo@devhubx.org">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</p>---
 
----
+⚠️ WARNING
 
-## 🔥 Motto
-
-> 💡 *"Code. Learn. Build. Repeat."*
+- You are being monitored 👁️
++ Welcome to my digital world 💻
 
 ---
