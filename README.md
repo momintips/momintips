@@ -1,69 +1,57 @@
-<h1 align="center">⚡ M O M I N  R A H M A N ⚡</h1>
-<h3 align="center">🕶️ Ethical Hacker | 💻 Developer | 🚀 System Builder</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;Welcome+to+Momin's+World+🌍;Coding+the+Future+💻;Hacking+the+Limits+⚡" />
+<h1 align="center">Momin Khan</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Developer+%7C+Automation+Builder;Learning+Cyber+Security;Building+Bots+%26+APIs;Always+Improving..." />
 </p>---
 
-🧑‍💻 WHO AM I?
+🧠 About Me
 
-> name: Momin Rahman
-> role: Developer / Learner / Creator
-> location: India 🇮🇳
-> focus: Automation, Bots, Web, Security
-> mindset: "Break → Learn → Build → Repeat"
+> whoami
+Momin Khan
+
+> role
+Developer / Learner
+
+> focus
+- Automation
+- Bots & APIs
+- Backend Development
+- Cyber Security (learning)
+
+> status
+ONLINE
 
 ---
 
-🛠️ TECH ARSENAL
+⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,linux,git,github,vscode,bash" />
-</p>✔ Python Automation
-✔ Java Development
-✔ Linux System Handling
-✔ API & Bot Development
-✔ Learning Cyber Security
-
----
-
-📊 SYSTEM STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momintips&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momintips&theme=chartreuse-dark&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,linux,bash,git,github,vscode" />
 </p>---
 
-🧬 CONTRIBUTION MATRIX
+📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/momintips/momintips/output/github-contribution-grid-snake.svg">
-</picture>---
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=momintips&show_icons=true&theme=github_dark&hide_border=true" />
+</p><p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momintips&theme=github-dark&hide_border=true" />
+</p>---
 
-🌐 CONNECT
+🐍 Activity
 
-<p align="center">
+<p>
+  <img src="https://raw.githubusercontent.com/momintips/momintips/output/github-contribution-grid-snake.svg" />
+</p>---
+
+📡 Connect
+
+<p>
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF00" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>---
 
-⚠️ WARNING ZONE
+⚠️ Note
 
-- Unauthorized access is prohibited ❌
-+ But curiosity is always welcome ✔
-
----
-
-🧠 FINAL LOG
-
-System.out.println("Stay hungry. Stay foolish.");
-while(true){
-   learn();
-   build();
-   upgrade();
-}
++ Focus on building real skills
+- Not just showing off
 
 ---
